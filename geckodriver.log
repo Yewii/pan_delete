@@ -14,3 +14,23 @@ ATTENTION: default value of option force_s3tc_enable overridden by environment.
 1503028395405	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
 1503028395727	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1503028396101	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1503044461853	geckodriver	INFO	geckodriver 0.18.0
+1503044461857	geckodriver	INFO	Listening on 127.0.0.1:50873
+1503044463097	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503044464983	Marionette	INFO	Enabled via --marionette
+1503044467720	Marionette	INFO	Listening on port 33765
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503044467843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503044467906	Marionette	DEBUG	loaded listener.js
+1503044467933	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503044470041	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503044470042	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503044471374	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1503044474069	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1503044477463	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503044478648	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503044483778	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/vmode=grid&path=%2F%e6%9d%a5%e8%87%aa%ef%bc%9aZ9%20Max"
