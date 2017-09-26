@@ -8,48 +8,54 @@ import time
 import requests
 import os
 
-driver = webdriver.Firefox()
-url='https://pan.baidu.com/'
-driver.get(url)
+def judge(urlstr)
+    driver.get(urlstr)
+    l = r'<a class="usjjQDB6" href="javascript:void(0);" title="(.*?)">'
+    pattern = re.compile(l, re.U)
+    iteam = re.findall(pattern1, page)
+    if iteam:
+        return 1
+    else:
+        return 0
 
+def listloop(lsit)
+
+
+
+#打开浏览器
+driver = webdriver.Firefox()
+driver.get('https://pan.baidu.com/')
+
+#登录
 driver.find_element_by_xpath(".//*[@id='login-middle']/div/div[6]/div[2]/a").click()
 driver.find_element_by_xpath(".//*[@id='TANGRAM__PSP_4__userName']").send_keys("yywzh424")
 driver.find_element_by_xpath(".//*[@id='TANGRAM__PSP_4__password']").send_keys("1997424yywzh*")
 driver.find_element_by_xpath(".//*[@id='TANGRAM__PSP_4__submit']").click()
 
-time.sleep(5)
+time.sleep(10)
 
-
-#获取当前url
-url = driver.current_url
-print('当前页面url'+url)
-
+#获取当前页面源代码
 f=open('page_html.txt','w')
-
-
 page = driver.page_source#获取当前页面源代码
-# print(page)
 f.write(page)
 
+
 #获取当前文件夹下目录
-p = r'class="asbfGB3b" title="(.*?)">'
-pattern1 = re.compile(p,re.U)#我们在编译这段正则表达式
-# matcher1 = re.match(pattern1,page,re.S)#在源文本中搜索符合正则表达式的部分
-iteam=re.findall(pattern1,page)#打印出来
+p = r'class="usjjQDB6" title="(.*?)">'
+pattern1 = re.compile(p,re.U)#编译正则表达式
+iteam=re.findall(pattern1,page)
 print(iteam)
-print(len(iteam))
+length=len(iteam)
+print(length)
 
 #打印当前页面内容
 # print('************************')
 # data = driver.find_element_by_xpath("html").text
 # print(data)
 
-#判断传入字符串是否包含中文
-def contain_zh(word):
-    word = word.decode()
-    global zh_pattern
-    match = zh_pattern.search(word)
-    return match
-
-
+#循环建立目录
+for i in range(length):
+    url='https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F'+iteam[i]
+    driver.get(url)
+    print(url)
 

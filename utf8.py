@@ -1,5 +1,5 @@
 #-*-coding:utf8-*-
-str='来自：Z9 Max'
+str='好看的图片'
 res = str.encode('utf-8')
 res=repr(res)
 
