@@ -1121,3 +1121,289 @@ ATTENTION: default value of option force_s3tc_enable overridden by environment.
 1506444217898	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 1506444218461	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 [Parent 6357] WARNING: pipe error (63): 连接被对方重设: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1506451780997	geckodriver	INFO	geckodriver 0.18.0
+1506451781003	geckodriver	INFO	Listening on 127.0.0.1:53145
+1506451782159	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506451783074	Marionette	INFO	Enabled via --marionette
+1506451786434	Marionette	INFO	Listening on port 34641
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506451786481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506451786538	Marionette	DEBUG	loaded listener.js
+1506451786595	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506451788722	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506451788723	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506451789135	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1506451792566	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1506451795130	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506451795733	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506451805798	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506451806019	Marionette	DEBUG	Received DOM event "pagehide" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506451806028	Marionette	DEBUG	Received DOM event "unload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506451806494	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506451807309	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506451807352	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AZ9%20Max"
+1506451807470	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%9B%BE%E7%89%87"
+1506451807525	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2FWiFi"
+1506451807633	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E8%BF%8E%E6%96%B0%E6%99%9A%E4%BC%9A"
+1506451807687	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E5%AD%A6%E7%94%9F%E4%BC%9A"
+1506451807736	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E5%9B%BD%E5%88%9B"
+1506451807811	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E9%9F%B3%E4%B9%90"
+1506451807867	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E8%A7%86%E9%A2%91"
+1506451807923	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%96%87%E6%A1%A3"
+1506451807983	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E8%AF%BE%E7%A8%8B"
+1506451808074	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E8%8B%B1%E8%AF%AD"
+1506451808134	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E5%AE%89%E8%A3%85%E5%8C%85"
+1506451808175	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%88%91%E7%9A%84%E8%B5%84%E6%BA%90"
+1506451808211	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AiPad"
+1506451808243	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9ANX510J"
+1506451808296	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2Fapps"
+1506451808382	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2FScreenshot_2017-07-25-12-46-14-803_com.android.mms.png"
+1506451808425	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2FScreenshot_2017-07-25-13-06-52-476_com.tencent.mm.png"
+1506451808450	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2Fmyfile170714153222.txt"
+1506451808488	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E7%94%B0%E8%8B%B1%E7%AB%A0%E3%80%8A%E5%94%90%E8%AF%9780%E9%A6%96%E3%80%8B%E6%A5%B7%E4%B9%A6%E8%A1%8C%E4%B9%A6%E9%92%A2%E7%AC%94%E6%8A%80%E6%B3%95%E5%AD%97%E5%B8%96%E5%85%8D%E8%B4%B9%E4%B8%8B%E8%BD%BD(%E5%85%B146%E5%BC%A0).rar"
+1506451808545	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E9%82%80%E8%AF%B7%E5%87%BD%EF%BC%88%E5%8F%8D%EF%BC%89.jpg"
+1506451808579	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%A8%A1%E6%9D%BF.pptx"
+1506451808645	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2FQQ%E5%9B%BE%E7%89%8720161201105232.jpg"
+1506451808741	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%841.docx"
+1506451808893	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%88%91%E7%9A%84%E7%81%B5%E6%84%9F.m4a"
+1506451808955	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BA%94%E8%AF%A5%E5%A6%82%E4%BD%95%E5%BC%98%E6%89%AC%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E7%B2%BE%E7%A5%9E.doc"
+1506451809001	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E5%AD%A6%E9%99%A2%E5%AD%A6%E7%94%9F%E4%BC%9A%E6%B4%BB%E5%8A%A8%E7%BB%8F%E8%B4%B9%E8%A1%A8%EF%BC%88%E9%99%A2%E5%8A%9E%E7%89%88%EF%BC%892.doc"
+1506451809044	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E5%AD%A6%E9%99%A2%E5%AD%A6%E7%94%9F%E4%BC%9A%E6%B4%BB%E5%8A%A8%E7%BB%8F%E8%B4%B9%E8%A1%A8%EF%BC%88%E8%B4%A2%E5%8A%A1%E5%A4%84%E7%89%88%EF%BC%892.doc"
+1506451809092	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E9%80%BC%E6%AD%BB%E4%BA%BA%20%E4%B8%8D%E5%81%BF%E5%91%BD%E7%9A%84%E8%8B%B1%E8%AF%AD%E7%BF%BB%E8%AF%91.doc"
+1506451809152	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E7%AC%94%E8%AF%91.pptx"
+1506451809224	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E7%AC%AC%E4%B8%80%E6%AC%A1.pptx"
+1506451809274	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F360%E7%A4%BC%E4%BB%AA%E6%9C%8D%E8%A3%85.xlsx"
+1506451809337	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%95%B0%E7%94%B5%E5%8D%B7-%E7%BB%99%E7%BD%91%E4%BF%A1%E9%99%A2%E5%AD%A6%E7%94%9F.doc"
+1506451809473	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F360%E7%A4%BC%E4%BB%AA%E6%9C%8D%E8%A3%85.pdf"
+1506451809538	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2Foral%20test.docx"
+1506451809605	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84(1).docx"
+1506451809679	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.docx"
+1506451809746	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2FA6418DB2-FA1D-40BC-A21B-528E21AD226F.amr"
+1506451809786	Marionette	DEBUG	Received DOM event "hashchange" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F5A7A84A1-609E-4F0F-9822-D554228BDA41.amr"
+1506453411099	geckodriver	INFO	geckodriver 0.18.0
+1506453411103	geckodriver	INFO	Listening on 127.0.0.1:40941
+1506453412299	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506453413327	Marionette	INFO	Enabled via --marionette
+1506453416855	Marionette	INFO	Listening on port 41979
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506453416932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506453416987	Marionette	DEBUG	loaded listener.js
+1506453417047	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506453419217	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506453419218	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506453420563	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1506453423262	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1506453425437	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506453425940	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506453435998	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506453436176	Marionette	DEBUG	Received DOM event "pagehide" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506453436178	Marionette	DEBUG	Received DOM event "unload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506453436671	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506453436927	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506453492211	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506453492248	Marionette	DEBUG	Received DOM event "pagehide" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506453492389	Marionette	DEBUG	Received DOM event "unload" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506453492396	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8876] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1506453496991	geckodriver	INFO	geckodriver 0.18.0
+1506453496994	geckodriver	INFO	Listening on 127.0.0.1:36307
+1506453498178	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506453499065	Marionette	INFO	Enabled via --marionette
+1506453502159	Marionette	INFO	Listening on port 40365
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506453502218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506453502283	Marionette	DEBUG	loaded listener.js
+1506453502306	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506453504444	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506453504445	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506453505254	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1506453508527	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1506453510750	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506453511297	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506453521355	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506453521532	Marionette	DEBUG	Received DOM event "pagehide" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506453521534	Marionette	DEBUG	Received DOM event "unload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506453522009	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506453522303	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506453554840	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506453554868	Marionette	DEBUG	Received DOM event "pagehide" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506453554994	Marionette	DEBUG	Received DOM event "unload" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506453555011	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+[Child 9036] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400C6,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1506453595153	geckodriver	INFO	geckodriver 0.18.0
+1506453595158	geckodriver	INFO	Listening on 127.0.0.1:41987
+1506453596323	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506453597258	Marionette	INFO	Enabled via --marionette
+1506453602475	Marionette	INFO	Listening on port 42391
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506453602645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506453602722	Marionette	DEBUG	loaded listener.js
+1506453602755	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506453604926	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506453604927	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506453605529	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1506453608802	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1506453610953	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506453611404	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506453621461	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506453621624	Marionette	DEBUG	Received DOM event "pagehide" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506453621626	Marionette	DEBUG	Received DOM event "unload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506453622090	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506453622561	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506453716876	geckodriver	INFO	geckodriver 0.18.0
+1506453716881	geckodriver	INFO	Listening on 127.0.0.1:57685
+1506453718120	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506453719089	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+JavaScript error: chrome://browser/content/browser.js, line 6454: TypeError: cannot use the given object as a weak map key
+1506453721111	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506453721132	Marionette	DEBUG	Received DOM event "pagehide" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3589: TypeError: this.tabs is undefined
+1506453721254	Marionette	DEBUG	Received DOM event "unload" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506453721273	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+[Child 9205] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1506453721684	Marionette	INFO	Enabled via --marionette
+1506453726044	Marionette	INFO	Listening on port 38181
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506453726152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506453726216	Marionette	DEBUG	loaded listener.js
+1506453726248	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506453728366	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506453728366	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506453728907	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1506453732069	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1506453734435	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506453734929	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506453744984	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506453745178	Marionette	DEBUG	Received DOM event "pagehide" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506453745185	Marionette	DEBUG	Received DOM event "unload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506453745681	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506453746088	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506453826791	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506453827156	Marionette	DEBUG	Received DOM event "pagehide" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506453827273	Marionette	DEBUG	Received DOM event "unload" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506453827292	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+[Child 9525] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400C6,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1506453834061	geckodriver	INFO	geckodriver 0.18.0
+1506453834064	geckodriver	INFO	Listening on 127.0.0.1:56471
+1506453835254	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506453836287	Marionette	INFO	Enabled via --marionette
+1506453839229	Marionette	INFO	Listening on port 42233
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506453839379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506453839452	Marionette	DEBUG	loaded listener.js
+1506453839492	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506453841630	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506453841630	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506453842438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1506453845564	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1506453847895	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506453848384	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506453858434	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506453858595	Marionette	DEBUG	Received DOM event "pagehide" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506453858599	Marionette	DEBUG	Received DOM event "unload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506453859075	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506453859577	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506454143820	geckodriver	INFO	geckodriver 0.18.0
+1506454143825	geckodriver	INFO	Listening on 127.0.0.1:43183
+1506454144984	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506454145874	Marionette	INFO	Enabled via --marionette
+1506454148748	Marionette	INFO	Listening on port 45215
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506454148895	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506454148966	Marionette	DEBUG	loaded listener.js
+1506454149031	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506454151186	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506454151187	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506454152511	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1506454155379	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1506454157404	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506454157836	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506454167902	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506454168047	Marionette	DEBUG	Received DOM event "pagehide" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506454168049	Marionette	DEBUG	Received DOM event "unload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506454168605	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506454169328	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506454175645	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506454175669	Marionette	DEBUG	Received DOM event "pagehide" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506454176380	Marionette	DEBUG	Received DOM event "unload" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506454176388	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1506454187784	geckodriver	INFO	geckodriver 0.18.0
+1506454187789	geckodriver	INFO	Listening on 127.0.0.1:59237
+1506454188969	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506454189927	Marionette	INFO	Enabled via --marionette
+1506454193546	Marionette	INFO	Listening on port 43285
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506454193593	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506454193635	Marionette	DEBUG	loaded listener.js
+1506454193661	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506454196082	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506454196083	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506454196420	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1506454201235	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1506454203149	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506454203629	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506454213684	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506454213839	Marionette	DEBUG	Received DOM event "pagehide" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506454213842	Marionette	DEBUG	Received DOM event "unload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506454214308	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506454214800	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506454263840	geckodriver	INFO	geckodriver 0.18.0
+1506454263844	geckodriver	INFO	Listening on 127.0.0.1:41661
+1506454265013	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506454265911	Marionette	INFO	Enabled via --marionette
+1506454268969	Marionette	INFO	Listening on port 34489
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506454269034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506454269083	Marionette	DEBUG	loaded listener.js
+1506454269109	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506454271287	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506454271287	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506454272232	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1506454275376	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1506454277340	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506454277824	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506454299907	geckodriver	INFO	geckodriver 0.18.0
+1506454299911	geckodriver	INFO	Listening on 127.0.0.1:40011
+1506454301157	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506454302042	Marionette	INFO	Enabled via --marionette
+1506454305233	Marionette	INFO	Listening on port 41211
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506454305303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506454305351	Marionette	DEBUG	loaded listener.js
+1506454305386	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506454307546	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506454307547	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506454308437	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1506454311344	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1506454313327	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506454313830	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506454323893	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506454324098	Marionette	DEBUG	Received DOM event "pagehide" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506454324102	Marionette	DEBUG	Received DOM event "unload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1506454324563	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"
+1506454325312	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9AMI%204C"

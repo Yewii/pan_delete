@@ -8,19 +8,23 @@ import time
 import requests
 import os
 
-def judge(urlstr)
+def judge(urlstr):
     driver.get(urlstr)
     l = r'<a class="usjjQDB6" href="javascript:void(0);" title="(.*?)">'
     pattern = re.compile(l, re.U)
-    iteam = re.findall(pattern1, page)
-    if iteam:
-        return 1
+    iteam = re.findall(pattern, page)
+    if iteam=='':
+        print('1')
     else:
-        return 0
+        print('0')
+    return
 
-def listloop(lsit)
 
-
+def listloop():
+    m = r'<a class="usjjQDB6" href="javascript:void(0);" title="(.*?)">'
+    pattern1 = re.compile(m, re.U)  # 编译正则表达式
+    iteamnew = re.findall(pattern1, page)
+    return iteamnew
 
 #打开浏览器
 driver = webdriver.Firefox()
@@ -32,6 +36,7 @@ driver.find_element_by_xpath(".//*[@id='TANGRAM__PSP_4__userName']").send_keys("
 driver.find_element_by_xpath(".//*[@id='TANGRAM__PSP_4__password']").send_keys("1997424yywzh*")
 driver.find_element_by_xpath(".//*[@id='TANGRAM__PSP_4__submit']").click()
 
+#等待
 time.sleep(10)
 
 #获取当前页面源代码
@@ -42,8 +47,8 @@ f.write(page)
 
 #获取当前文件夹下目录
 p = r'class="usjjQDB6" title="(.*?)">'
-pattern1 = re.compile(p,re.U)#编译正则表达式
-iteam=re.findall(pattern1,page)
+pattern2 = re.compile(p,re.U)#编译正则表达式
+iteam=re.findall(pattern2,page)
 print(iteam)
 length=len(iteam)
 print(length)
@@ -55,7 +60,19 @@ print(length)
 
 #循环建立目录
 for i in range(length):
-    url='https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F'+iteam[i]
-    driver.get(url)
-    print(url)
+    urlll='https://pan.baidu.com/disk/home?#list/vmode=grid&path=%2F'+iteam[i]
+    print(urlll)
+    driver.get(urlll)
+
+    # i=judge(url)
+    # print(judge(url))
+    # if i==1:
+    #     print('1')
+    # else:
+    #     print('0')
+    judge('urlll')
+
+print('ok')
+
+
 
